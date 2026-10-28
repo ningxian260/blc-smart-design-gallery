@@ -40,11 +40,6 @@
       "name": "國際風格參考",
       "color": "#c1c4cc",
       "description": "三款介面風格參考，與本校主方案分開展示。"
-    },
-    {
-      "name": "早期拼版參考",
-      "color": "#d7cbbf",
-      "description": "保留早期整體視覺稿，作補充參考。"
     }
   ],
   "schemes": [
@@ -4296,61 +4291,7 @@
         "風格參考，不列入本校60款主方案"
       ],
       "number": 3
-    },
-    {
-      "id": 64,
-      "name": "霧藍米白・早期拼版",
-      "category": "早期拼版參考",
-      "color": "#d7cbbf",
-      "description": "保留早期整體視覺稿，作補充參考",
-      "reference": true,
-      "images": [
-        {
-          "id": "s64-01",
-          "name": "01_霧藍米白",
-          "page": "綜合畫面",
-          "device": "電腦",
-          "src": "assets/images/s64-01.webp",
-          "thumb": "assets/images/s64-01-thumb.webp",
-          "width": 1536,
-          "height": 1024
-        }
-      ],
-      "cover": "s64-01",
-      "desktop": 1,
-      "mobile": 0,
-      "notes": [
-        "風格參考，不列入本校60款主方案"
-      ],
-      "number": 4
-    },
-    {
-      "id": 65,
-      "name": "暖白淡金・早期拼版",
-      "category": "早期拼版參考",
-      "color": "#d7cbbf",
-      "description": "保留早期整體視覺稿，作補充參考",
-      "reference": true,
-      "images": [
-        {
-          "id": "s65-01",
-          "name": "02_暖白淡金",
-          "page": "綜合畫面",
-          "device": "電腦",
-          "src": "assets/images/s65-01.webp",
-          "thumb": "assets/images/s65-01-thumb.webp",
-          "width": 1536,
-          "height": 1024
-        }
-      ],
-      "cover": "s65-01",
-      "desktop": 1,
-      "mobile": 0,
-      "notes": [
-        "風格參考，不列入本校60款主方案"
-      ],
-      "number": 5
     }
   ],
-  "revision": "2026-10-28-visual-classification"
+  "revision": "2026-10-28-large-text-61"
 }
