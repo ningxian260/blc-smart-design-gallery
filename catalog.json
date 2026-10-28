@@ -2,53 +2,58 @@
   "updated": "2026-10-28",
   "categories": [
     {
-      "name": "純色與淡雅",
+      "name": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次"
+      "description": "以平坦實色作背景，沒有場景、山水或裝飾插畫；保留校徽及功能圖示。"
     },
     {
-      "name": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向"
+      "name": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "大面積留白為主，僅有輕微紙感、光影、幼線或少量小植物點綴。"
     },
     {
-      "name": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別"
+      "name": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "背景以蓮花、山水、波紋或其線稿裝飾為主要視覺。"
     },
     {
-      "name": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向"
+      "name": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "以具空間感的校舍、庭院、書桌、窗邊或書院室內場景為主。"
     },
     {
-      "name": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格"
+      "name": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "以色塊、弧線、圓形、網格或幾何光影構成背景；不以具象場景為主。"
     },
     {
-      "name": "現代與數碼",
-      "color": "#b3c6cf",
-      "description": "網格、編輯排版與現代數碼介面"
+      "name": "自然植物插畫",
+      "color": "#adc5ad",
+      "description": "以葉片、枝條、自然手繪或水彩植物與書本構圖為主。"
+    },
+    {
+      "name": "趣味卡通插畫",
+      "color": "#d1bdd9",
+      "description": "以扁平校園插畫、漫畫、卡通文具、紙偶或像素圖像為主。"
     },
     {
       "name": "國際風格參考",
       "color": "#c1c4cc",
-      "description": "三款介面風格參考，與本校方案分開展示"
+      "description": "三款介面風格參考，與本校主方案分開展示。"
     },
     {
       "name": "早期拼版參考",
       "color": "#d7cbbf",
-      "description": "保留早期整體視覺稿，作補充參考"
+      "description": "保留早期整體視覺稿，作補充參考。"
     }
   ],
   "schemes": [
     {
       "id": 1,
       "name": "校徽藍白",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "藍白底色搭配右下蓮花及水波，主視覺屬蓮花裝飾。",
       "reference": false,
       "images": [
         {
@@ -98,14 +103,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 1
+      "number": 1,
+      "classificationReason": "藍白底色搭配右下蓮花及水波，主視覺屬蓮花裝飾。"
     },
     {
       "id": 2,
       "name": "暖白書卷",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "暖白背景有蓮花、波紋及柔和山形，屬蓮花山水裝飾。",
       "reference": false,
       "images": [
         {
@@ -155,14 +161,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 2
+      "number": 2,
+      "classificationReason": "暖白背景有蓮花、波紋及柔和山形，屬蓮花山水裝飾。"
     },
     {
       "id": 3,
       "name": "清雅青綠",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "青綠水面、右下蓮花及曲線構成主背景。",
       "reference": false,
       "images": [
         {
@@ -212,14 +219,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 3
+      "number": 3,
+      "classificationReason": "青綠水面、右下蓮花及曲線構成主背景。"
     },
     {
       "id": 4,
       "name": "和紙留白",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "和紙質感上繪有山水及蓮花，主要辨識元素是山水花卉。",
       "reference": false,
       "images": [
         {
@@ -269,14 +277,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 4
+      "number": 4,
+      "classificationReason": "和紙質感上繪有山水及蓮花，主要辨識元素是山水花卉。"
     },
     {
       "id": 5,
       "name": "枯山水",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "枯山水線紋配蓮花，保留明確的自然意象裝飾。",
       "reference": false,
       "images": [
         {
@@ -326,14 +335,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 5
+      "number": 5,
+      "classificationReason": "枯山水線紋配蓮花，保留明確的自然意象裝飾。"
     },
     {
       "id": 6,
       "name": "侘寂木色",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "暖木色背景以蓮花、山形與細密波紋裝飾。",
       "reference": false,
       "images": [
         {
@@ -383,14 +393,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 6
+      "number": 6,
+      "classificationReason": "暖木色背景以蓮花、山形與細密波紋裝飾。"
     },
     {
       "id": 7,
       "name": "霧藍米白",
-      "category": "純色與淡雅",
-      "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "有明顯層疊藍色山景及蓮花線稿，並非純色背景。",
       "reference": false,
       "images": [
         {
@@ -430,14 +441,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 7
+      "number": 7,
+      "classificationReason": "有明顯層疊藍色山景及蓮花線稿，並非純色背景。"
     },
     {
       "id": 8,
       "name": "暖白淡金",
-      "category": "純色與淡雅",
-      "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "category": "蓮花與山水",
+      "color": "#b4c5d2",
+      "description": "暖金色山形、弧線及蓮花線稿構成背景，並非純色背景。",
       "reference": false,
       "images": [
         {
@@ -477,14 +489,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 8
+      "number": 8,
+      "classificationReason": "暖金色山形、弧線及蓮花線稿構成背景，並非純色背景。"
     },
     {
       "id": 10,
       "name": "日式青竹",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "可見窗邊書桌、書本及盆栽的室內場景。",
       "reference": false,
       "images": [
         {
@@ -524,14 +537,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 9
+      "number": 9,
+      "classificationReason": "可見窗邊書桌、書本及盆栽的室內場景。"
     },
     {
       "id": 11,
       "name": "靛藍書院",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "書桌、窗邊、盆栽與書本具有明確室內空間感。",
       "reference": false,
       "images": [
         {
@@ -571,14 +585,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 10
+      "number": 10,
+      "classificationReason": "書桌、窗邊、盆栽與書本具有明確室內空間感。"
     },
     {
       "id": 12,
       "name": "蓮池晴光",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "窗外校舍及山景，配室內書桌與植物，屬場景式背景。",
       "reference": false,
       "images": [
         {
@@ -618,14 +633,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 11
+      "number": 11,
+      "classificationReason": "窗外校舍及山景，配室內書桌與植物，屬場景式背景。"
     },
     {
       "id": 13,
       "name": "日式現代書院",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "木窗、書架、校舍遠景構成具空間感的書院室內場景。",
       "reference": false,
       "images": [
         {
@@ -665,14 +681,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 12
+      "number": 12,
+      "classificationReason": "木窗、書架、校舍遠景構成具空間感的書院室內場景。"
     },
     {
       "id": 14,
       "name": "青瓷與暖紙",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "自然植物插畫",
+      "color": "#adc5ad",
+      "description": "以葉片、枝條及柔和紙面構圖為主，沒有完整校園或室內場景。",
       "reference": false,
       "images": [
         {
@@ -712,14 +729,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 13
+      "number": 13,
+      "classificationReason": "以葉片、枝條及柔和紙面構圖為主，沒有完整校園或室內場景。"
     },
     {
       "id": 15,
       "name": "深藍金線現代學院",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "校舍建築與樹木佔據主要背景，藍金色塊作輔助。",
       "reference": false,
       "images": [
         {
@@ -759,14 +777,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 14
+      "number": 14,
+      "classificationReason": "校舍建築與樹木佔據主要背景，藍金色塊作輔助。"
     },
     {
       "id": 16,
       "name": "日式編輯學習手冊",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "校舍與樹葉是主要視覺，圓形與線條屬輔助裝飾。",
       "reference": false,
       "images": [
         {
@@ -806,14 +825,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 15
+      "number": 15,
+      "classificationReason": "校舍與樹葉是主要視覺，圓形與線條屬輔助裝飾。"
     },
     {
       "id": 17,
       "name": "晨光校園自然成長",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "窗邊、盆栽、遠處校舍與天空構成完整場景。",
       "reference": false,
       "images": [
         {
@@ -853,14 +873,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 16
+      "number": 16,
+      "classificationReason": "窗邊、盆栽、遠處校舍與天空構成完整場景。"
     },
     {
       "id": 18,
       "name": "當代東方墨青朱砂",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "墨青色塊、圓形、斜線與植物投影組合，屬抽象幾何構圖。",
       "reference": false,
       "images": [
         {
@@ -900,14 +921,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 17
+      "number": 17,
+      "classificationReason": "墨青色塊、圓形、斜線與植物投影組合，屬抽象幾何構圖。"
     },
     {
       "id": 19,
       "name": "清爽科技人本學習",
-      "category": "現代與數碼",
-      "color": "#b3c6cf",
-      "description": "網格、編輯排版與現代數碼介面",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "背景為校舍、天空與樹木，幾何弧線只作邊角輔助。",
       "reference": false,
       "images": [
         {
@@ -947,14 +969,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 18
+      "number": 18,
+      "classificationReason": "背景為校舍、天空與樹木，幾何弧線只作邊角輔助。"
     },
     {
       "id": 20,
       "name": "暖白陶土校園",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "校園與室內場景",
+      "color": "#bec7a8",
+      "description": "庭院、走廊、植物與遠處校舍形成完整空間場景。",
       "reference": false,
       "images": [
         {
@@ -994,14 +1017,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 19
+      "number": 19,
+      "classificationReason": "庭院、走廊、植物與遠處校舍形成完整空間場景。"
     },
     {
       "id": 21,
       "name": "瑞士網格學院",
-      "category": "現代與數碼",
-      "color": "#b3c6cf",
-      "description": "網格、編輯排版與現代數碼介面",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "藍白色幾何切面及金線構圖，沒有實際校園場景。",
       "reference": false,
       "images": [
         {
@@ -1041,14 +1065,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 20
+      "number": 20,
+      "classificationReason": "藍白色幾何切面及金線構圖，沒有實際校園場景。"
     },
     {
       "id": 22,
       "name": "北歐明亮校園",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "圓形、色塊及點陣構成背景，並非自然或校園場景。",
       "reference": false,
       "images": [
         {
@@ -1088,14 +1113,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 21
+      "number": 21,
+      "classificationReason": "圓形、色塊及點陣構成背景，並非自然或校園場景。"
     },
     {
       "id": 23,
       "name": "現代和紙朱紅",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "朱紅及灰綠圓形、線條與紙面色塊為主。",
       "reference": false,
       "images": [
         {
@@ -1135,14 +1161,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 22
+      "number": 22,
+      "classificationReason": "朱紅及灰綠圓形、線條與紙面色塊為主。"
     },
     {
       "id": 24,
       "name": "海藍珊瑚學園",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "趣味卡通插畫",
+      "color": "#d1bdd9",
+      "description": "校舍以扁平插畫方式繪製，搭配海藍色幾何曲線，屬卡通插畫方向。",
       "reference": false,
       "images": [
         {
@@ -1182,14 +1209,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 23
+      "number": 23,
+      "classificationReason": "校舍以扁平插畫方式繪製，搭配海藍色幾何曲線，屬卡通插畫方向。"
     },
     {
       "id": 25,
       "name": "日式極簡暖白墨黑",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "暖白留白、單色細節與少量紙面質感，沒有主題插畫。",
       "reference": false,
       "images": [
         {
@@ -1229,14 +1257,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 24
+      "number": 24,
+      "classificationReason": "暖白留白、單色細節與少量紙面質感，沒有主題插畫。"
     },
     {
       "id": 26,
       "name": "日式白木靛藍",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "近白背景配靛藍按鈕，大面積留白主導。",
       "reference": false,
       "images": [
         {
@@ -1276,14 +1305,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 25
+      "number": 25,
+      "classificationReason": "近白背景配靛藍按鈕，大面積留白主導。"
     },
     {
       "id": 27,
       "name": "日式和紙抹茶",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "淺紙色與抹茶綠細節，背景只有極輕微紙感。",
       "reference": false,
       "images": [
         {
@@ -1323,14 +1353,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 26
+      "number": 26,
+      "classificationReason": "淺紙色與抹茶綠細節，背景只有極輕微紙感。"
     },
     {
       "id": 28,
       "name": "日式米杏焙茶",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "米杏背景與焙茶色細節，沒有場景或具象插畫。",
       "reference": false,
       "images": [
         {
@@ -1370,14 +1401,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 27
+      "number": 27,
+      "classificationReason": "米杏背景與焙茶色細節，沒有場景或具象插畫。"
     },
     {
       "id": 29,
       "name": "日式月白藤紫",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "近白淡紫背景、乾淨卡片與留白。",
       "reference": false,
       "images": [
         {
@@ -1417,14 +1449,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 28
+      "number": 28,
+      "classificationReason": "近白淡紫背景、乾淨卡片與留白。"
     },
     {
       "id": 30,
       "name": "日式暖灰赤陶",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "暖灰底面與赤陶色細節，留白主導。",
       "reference": false,
       "images": [
         {
@@ -1464,14 +1497,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 29
+      "number": 29,
+      "classificationReason": "暖灰底面與赤陶色細節，留白主導。"
     },
     {
       "id": 31,
       "name": "晴空・琥珀",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "淡藍色曲線、圓形與半透明幾何層次，並非漫畫或具象插畫。",
       "reference": false,
       "images": [
         {
@@ -1511,14 +1545,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 30
+      "number": 30,
+      "classificationReason": "淡藍色曲線、圓形與半透明幾何層次，並非漫畫或具象插畫。"
     },
     {
       "id": 32,
       "name": "書院・朱砂",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "米白底面有斜線與幾何光影，非書院場景。",
       "reference": false,
       "images": [
         {
@@ -1558,14 +1593,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 31
+      "number": 31,
+      "classificationReason": "米白底面有斜線與幾何光影，非書院場景。"
     },
     {
       "id": 33,
       "name": "澄明・暖金",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "淺綠米白抽象弧線與圓形構圖，非具象書院或校園場景。",
       "reference": false,
       "images": [
         {
@@ -1605,14 +1641,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 32
+      "number": 32,
+      "classificationReason": "淺綠米白抽象弧線與圓形構圖，非具象書院或校園場景。"
     },
     {
       "id": 35,
       "name": "編輯式書頁",
-      "category": "現代與數碼",
-      "color": "#b3c6cf",
-      "description": "網格、編輯排版與現代數碼介面",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "編輯式欄線、網格及幾何版塊構成背景。",
       "reference": false,
       "images": [
         {
@@ -1652,14 +1689,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 33
+      "number": 33,
+      "classificationReason": "編輯式欄線、網格及幾何版塊構成背景。"
     },
     {
       "id": 36,
       "name": "輕立體學習桌",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "大圓形及圓角矩形搭配輕微立體感，沒有文具角色或具象插畫。",
       "reference": false,
       "images": [
         {
@@ -1699,14 +1737,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 34
+      "number": 34,
+      "classificationReason": "大圓形及圓角矩形搭配輕微立體感，沒有文具角色或具象插畫。"
     },
     {
       "id": 37,
       "name": "青庭・暖杏",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "淡綠米杏弧線與抽象幾何層次為主，沒有校園或植物主體。",
       "reference": false,
       "images": [
         {
@@ -1746,14 +1785,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 35
+      "number": 35,
+      "classificationReason": "淡綠米杏弧線與抽象幾何層次為主，沒有校園或植物主體。"
     },
     {
       "id": 38,
       "name": "清爽蓮庭_可汗風格",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "自然植物插畫",
+      "color": "#adc5ad",
+      "description": "手繪蓮葉、書本與自然水彩構圖，屬植物插畫方向。",
       "reference": false,
       "images": [
         {
@@ -1803,14 +1843,15 @@
       "notes": [
         "現有資料未提供獨立手機畫面"
       ],
-      "number": 36
+      "number": 36,
+      "classificationReason": "手繪蓮葉、書本與自然水彩構圖，屬植物插畫方向。"
     },
     {
       "id": 39,
       "name": "繽紛啟學",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "彩色圓形、三角形、多邊形及點陣為主，並非漫畫插畫。",
       "reference": false,
       "images": [
         {
@@ -1928,14 +1969,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 37
+      "number": 37,
+      "classificationReason": "彩色圓形、三角形、多邊形及點陣為主，並非漫畫插畫。"
     },
     {
       "id": 40,
       "name": "藍金新書院",
-      "category": "書院與品牌",
-      "color": "#abb8cc",
-      "description": "校園品牌、書院色彩與較鮮明的視覺識別",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "藍金色圓弧與線條構圖，沒有書院或校舍場景。",
       "reference": false,
       "images": [
         {
@@ -2053,14 +2095,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 38
+      "number": 38,
+      "classificationReason": "藍金色圓弧與線條構圖，沒有書院或校舍場景。"
     },
     {
       "id": 41,
       "name": "暖杏成長室",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "抽象幾何",
+      "color": "#ddc3af",
+      "description": "杏色圓形、弧線與紙感色塊為主，少量葉片作點綴。",
       "reference": false,
       "images": [
         {
@@ -2178,14 +2221,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 39
+      "number": 39,
+      "classificationReason": "杏色圓形、弧線與紙感色塊為主，少量葉片作點綴。"
     },
     {
       "id": 42,
       "name": "漫畫文具",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "趣味卡通插畫",
+      "color": "#d1bdd9",
+      "description": "漫畫線條、卡通文具、書本與星形裝飾。",
       "reference": false,
       "images": [
         {
@@ -2303,14 +2347,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 40
+      "number": 40,
+      "classificationReason": "漫畫線條、卡通文具、書本與星形裝飾。"
     },
     {
       "id": 43,
       "name": "柔和紙偶",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "趣味卡通插畫",
+      "color": "#d1bdd9",
+      "description": "紙偶角色、紙片雲朵及層疊卡通山形。",
       "reference": false,
       "images": [
         {
@@ -2428,14 +2473,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 41
+      "number": 41,
+      "classificationReason": "紙偶角色、紙片雲朵及層疊卡通山形。"
     },
     {
       "id": 44,
       "name": "像素探索",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "趣味卡通插畫",
+      "color": "#d1bdd9",
+      "description": "像素書本、植物、樓梯及雲朵構成遊戲式插畫。",
       "reference": false,
       "images": [
         {
@@ -2553,14 +2599,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 42
+      "number": 42,
+      "classificationReason": "像素書本、植物、樓梯及雲朵構成遊戲式插畫。"
     },
     {
       "id": 45,
       "name": "漫畫學園",
-      "category": "活潑與插畫",
-      "color": "#e1c5af",
-      "description": "活潑色彩、插畫、紙偶、漫畫及像素風格",
+      "category": "趣味卡通插畫",
+      "color": "#d1bdd9",
+      "description": "漫畫校園、課室、書本及粗線條圖像。",
       "reference": false,
       "images": [
         {
@@ -2678,14 +2725,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 43
+      "number": 43,
+      "classificationReason": "漫畫校園、課室、書本及粗線條圖像。"
     },
     {
       "id": 46,
       "name": "自然手繪",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "自然植物插畫",
+      "color": "#adc5ad",
+      "description": "手繪植物、葉片、書本與自然素描構圖。",
       "reference": false,
       "images": [
         {
@@ -2803,14 +2851,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 44
+      "number": 44,
+      "classificationReason": "手繪植物、葉片、書本與自然素描構圖。"
     },
     {
       "id": 47,
       "name": "日式留白_若葉自省",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "以留白為主，下方只有少量嫩芽及葉片點綴。",
       "reference": false,
       "images": [
         {
@@ -2928,14 +2977,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 45
+      "number": 45,
+      "classificationReason": "以留白為主，下方只有少量嫩芽及葉片點綴。"
     },
     {
       "id": 48,
       "name": "日美簡約_澄藍共學",
-      "category": "日式與留白",
-      "color": "#c3bdac",
-      "description": "留白、自然色調與日式簡約方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "大面積白底，只有極淡幼線與小植物點綴。",
       "reference": false,
       "images": [
         {
@@ -3053,14 +3103,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 46
+      "number": 46,
+      "classificationReason": "大面積白底，只有極淡幼線與小植物點綴。"
     },
     {
       "id": 49,
       "name": "澄光自省",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "大面積暖白留白，底部只有柔和窗影，沒有完整場景主體。",
       "reference": false,
       "images": [
         {
@@ -3178,14 +3229,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 47
+      "number": 47,
+      "classificationReason": "大面積暖白留白，底部只有柔和窗影，沒有完整場景主體。"
     },
     {
       "id": 50,
       "name": "同行共學",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "大面積白底及底部少量書頁幼線，並非自然場景。",
       "reference": false,
       "images": [
         {
@@ -3303,14 +3355,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 48
+      "number": 48,
+      "classificationReason": "大面積白底及底部少量書頁幼線，並非自然場景。"
     },
     {
       "id": 51,
       "name": "年輪成長",
-      "category": "自然與關懷",
-      "color": "#b8c8a8",
-      "description": "校園、自然與溫暖關愛的視覺方向",
+      "category": "極簡留白",
+      "color": "#c5c9bd",
+      "description": "大面積留白配右下細密年輪弧線，屬極簡線條點綴。",
       "reference": false,
       "images": [
         {
@@ -3428,14 +3481,15 @@
       "desktop": 5,
       "mobile": 5,
       "notes": [],
-      "number": 49
+      "number": 49,
+      "classificationReason": "大面積留白配右下細密年輪弧線，屬極簡線條點綴。"
     },
     {
       "id": 52,
       "name": "青瓷綠",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦青瓷綠背景及白色卡片，沒有風景或插畫。",
       "reference": false,
       "images": [
         {
@@ -3505,14 +3559,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 50
+      "number": 50,
+      "classificationReason": "平坦青瓷綠背景及白色卡片，沒有風景或插畫。"
     },
     {
       "id": 53,
       "name": "書院藍",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦淺藍背景及白色卡片，沒有風景或插畫。",
       "reference": false,
       "images": [
         {
@@ -3582,14 +3637,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 51
+      "number": 51,
+      "classificationReason": "平坦淺藍背景及白色卡片，沒有風景或插畫。"
     },
     {
       "id": 54,
       "name": "暖米金",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦暖米背景及白色卡片，沒有風景或插畫。",
       "reference": false,
       "images": [
         {
@@ -3659,14 +3715,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 52
+      "number": 52,
+      "classificationReason": "平坦暖米背景及白色卡片，沒有風景或插畫。"
     },
     {
       "id": 55,
       "name": "霧青留白",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦霧青背景、淡綠按鈕及白色卡片。",
       "reference": false,
       "images": [
         {
@@ -3736,14 +3793,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 53
+      "number": 53,
+      "classificationReason": "平坦霧青背景、淡綠按鈕及白色卡片。"
     },
     {
       "id": 56,
       "name": "晴空淡藍",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦淡藍背景與淡藍按鈕。",
       "reference": false,
       "images": [
         {
@@ -3813,14 +3871,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 54
+      "number": 54,
+      "classificationReason": "平坦淡藍背景與淡藍按鈕。"
     },
     {
       "id": 57,
       "name": "柔紫圓角",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦柔紫背景配圓角卡片及淡紫按鈕。",
       "reference": false,
       "images": [
         {
@@ -3890,14 +3949,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 55
+      "number": 55,
+      "classificationReason": "平坦柔紫背景配圓角卡片及淡紫按鈕。"
     },
     {
       "id": 58,
       "name": "米杏書頁",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦米杏背景配淡金按鈕及直邊卡片。",
       "reference": false,
       "images": [
         {
@@ -3967,14 +4027,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 56
+      "number": 56,
+      "classificationReason": "平坦米杏背景配淡金按鈕及直邊卡片。"
     },
     {
       "id": 59,
       "name": "櫻粉暖白",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦淡粉背景配暖白卡片。",
       "reference": false,
       "images": [
         {
@@ -4044,14 +4105,15 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 57
+      "number": 57,
+      "classificationReason": "平坦淡粉背景配暖白卡片。"
     },
     {
       "id": 60,
       "name": "淺灰極簡",
-      "category": "純色與淡雅",
+      "category": "純色背景",
       "color": "#a8c4b6",
-      "description": "低彩度配色、純色底面與柔和層次",
+      "description": "平坦淺灰背景配白色卡片及灰色細節。",
       "reference": false,
       "images": [
         {
@@ -4121,7 +4183,8 @@
       "notes": [
         "純色方案，保留校徽；沒有風景或插畫背景"
       ],
-      "number": 58
+      "number": 58,
+      "classificationReason": "平坦淺灰背景配白色卡片及灰色細節。"
     },
     {
       "id": 61,
@@ -4289,5 +4352,5 @@
       "number": 5
     }
   ],
-  "revision": "2026-10-28-ordered-58"
+  "revision": "2026-10-28-visual-classification"
 }
