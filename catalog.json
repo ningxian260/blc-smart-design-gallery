@@ -4158,8 +4158,44 @@
       ]
     },
     {
-      "id": 62,
+      "id": 61,
       "name": "Brilliant 風格參考",
+      "category": "國際風格參考",
+      "color": "#c1c4cc",
+      "description": "三款介面風格參考，與本校方案分開展示",
+      "reference": true,
+      "images": [
+        {
+          "id": "s61-01",
+          "name": "手機版",
+          "page": "綜合畫面",
+          "device": "手機",
+          "src": "assets/images/s61-01.webp",
+          "thumb": "assets/images/s61-01-thumb.webp",
+          "width": 906,
+          "height": 1736
+        },
+        {
+          "id": "s61-02",
+          "name": "電腦版",
+          "page": "綜合畫面",
+          "device": "電腦",
+          "src": "assets/images/s61-02.webp",
+          "thumb": "assets/images/s61-02-thumb.webp",
+          "width": 1586,
+          "height": 992
+        }
+      ],
+      "cover": "s61-01",
+      "desktop": 1,
+      "mobile": 1,
+      "notes": [
+        "風格參考，不列入本校60款主方案"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Linear 風格參考",
       "category": "國際風格參考",
       "color": "#c1c4cc",
       "description": "三款介面風格參考，與本校方案分開展示",
@@ -4172,8 +4208,8 @@
           "device": "手機",
           "src": "assets/images/s62-01.webp",
           "thumb": "assets/images/s62-01-thumb.webp",
-          "width": 906,
-          "height": 1736
+          "width": 1024,
+          "height": 1536
         },
         {
           "id": "s62-02",
@@ -4186,7 +4222,7 @@
           "height": 992
         }
       ],
-      "cover": "s62-02",
+      "cover": "s62-01",
       "desktop": 1,
       "mobile": 1,
       "notes": [
@@ -4195,7 +4231,7 @@
     },
     {
       "id": 63,
-      "name": "Linear 風格參考",
+      "name": "Things 風格參考",
       "category": "國際風格參考",
       "color": "#c1c4cc",
       "description": "三款介面風格參考，與本校方案分開展示",
@@ -4208,8 +4244,8 @@
           "device": "手機",
           "src": "assets/images/s63-01.webp",
           "thumb": "assets/images/s63-01-thumb.webp",
-          "width": 1024,
-          "height": 1536
+          "width": 876,
+          "height": 1795
         },
         {
           "id": "s63-02",
@@ -4218,47 +4254,11 @@
           "device": "電腦",
           "src": "assets/images/s63-02.webp",
           "thumb": "assets/images/s63-02-thumb.webp",
-          "width": 1586,
-          "height": 992
-        }
-      ],
-      "cover": "s63-02",
-      "desktop": 1,
-      "mobile": 1,
-      "notes": [
-        "風格參考，不列入本校60款主方案"
-      ]
-    },
-    {
-      "id": 64,
-      "name": "Things 風格參考",
-      "category": "國際風格參考",
-      "color": "#c1c4cc",
-      "description": "三款介面風格參考，與本校方案分開展示",
-      "reference": true,
-      "images": [
-        {
-          "id": "s64-01",
-          "name": "手機版",
-          "page": "綜合畫面",
-          "device": "手機",
-          "src": "assets/images/s64-01.webp",
-          "thumb": "assets/images/s64-01-thumb.webp",
-          "width": 876,
-          "height": 1795
-        },
-        {
-          "id": "s64-02",
-          "name": "電腦版",
-          "page": "綜合畫面",
-          "device": "電腦",
-          "src": "assets/images/s64-02.webp",
-          "thumb": "assets/images/s64-02-thumb.webp",
           "width": 1504,
           "height": 1046
         }
       ],
-      "cover": "s64-02",
+      "cover": "s63-01",
       "desktop": 1,
       "mobile": 1,
       "notes": [
