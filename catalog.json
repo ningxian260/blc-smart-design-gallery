@@ -37,6 +37,11 @@
       "description": "以扁平校園插畫、漫畫、卡通文具、紙偶或像素圖像為主。"
     },
     {
+      "name": "立體卡片與黑框",
+      "color": "#d5e981",
+      "description": "黑色導航、幼黑框卡片與原創立體學科物件；以青檸、紫色及薄荷色建立鮮明層次。"
+    },
+    {
       "name": "國際風格參考",
       "color": "#c1c4cc",
       "description": "三款介面風格參考，與本校主方案分開展示。"
@@ -4214,7 +4219,7 @@
       "desktop": 1,
       "mobile": 1,
       "notes": [
-        "風格參考，不列入本校60款主方案"
+        "風格參考，不列入本校主方案"
       ],
       "number": 1
     },
@@ -4251,7 +4256,7 @@
       "desktop": 1,
       "mobile": 1,
       "notes": [
-        "風格參考，不列入本校60款主方案"
+        "風格參考，不列入本校主方案"
       ],
       "number": 2
     },
@@ -4288,10 +4293,250 @@
       "desktop": 1,
       "mobile": 1,
       "notes": [
-        "風格參考，不列入本校60款主方案"
+        "風格參考，不列入本校主方案"
       ],
       "number": 3
+    },
+    {
+      "id": 64,
+      "number": 59,
+      "name": "青檸探索",
+      "category": "立體卡片與黑框",
+      "color": "#e6ff64",
+      "description": "青檸黃與紫色立體物件、圓角黑框卡片；登入採左右分欄，學生頁以三欄科目卡呈現。",
+      "classificationReason": "以立體學科物件和黑框卡片為主要視覺，獨立於場景、植物與平面卡通分類。",
+      "reference": false,
+      "images": [
+        {
+          "id": "s64-01",
+          "name": "電腦版_登入頁",
+          "page": "登入",
+          "device": "電腦",
+          "src": "assets/images/s64-01.webp",
+          "thumb": "assets/images/s64-01-thumb.webp",
+          "width": 1600,
+          "height": 1003
+        },
+        {
+          "id": "s64-02",
+          "name": "手機版_登入頁",
+          "page": "登入",
+          "device": "手機",
+          "src": "assets/images/s64-02.webp",
+          "thumb": "assets/images/s64-02-thumb.webp",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "id": "s64-03",
+          "name": "電腦版_教師建立與派發頁",
+          "page": "教師建立與派發",
+          "device": "電腦",
+          "src": "assets/images/s64-03.webp",
+          "thumb": "assets/images/s64-03-thumb.webp",
+          "width": 1600,
+          "height": 1000
+        },
+        {
+          "id": "s64-04",
+          "name": "手機版_教師建立與派發頁",
+          "page": "教師建立與派發",
+          "device": "手機",
+          "src": "assets/images/s64-04.webp",
+          "thumb": "assets/images/s64-04-thumb.webp",
+          "width": 430,
+          "height": 1085
+        },
+        {
+          "id": "s64-05",
+          "name": "電腦版_學生科目頁",
+          "page": "學生科目與練習",
+          "device": "電腦",
+          "src": "assets/images/s64-05.webp",
+          "thumb": "assets/images/s64-05-thumb.webp",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": "s64-06",
+          "name": "手機版_學生科目頁",
+          "page": "學生科目與練習",
+          "device": "手機",
+          "src": "assets/images/s64-06.webp",
+          "thumb": "assets/images/s64-06-thumb.webp",
+          "width": 430,
+          "height": 1740
+        }
+      ],
+      "cover": "s64-01",
+      "desktop": 3,
+      "mobile": 3,
+      "notes": [
+        "新增系列：用戶選定的黑框立體卡片方向。",
+        "三頁各有獨立電腦及手機設計，共六張。",
+        "靜態視覺提案，保留現有功能；未修改正式學習平台。"
+      ]
+    },
+    {
+      "id": 65,
+      "number": 60,
+      "name": "紫韻學習",
+      "category": "立體卡片與黑框",
+      "color": "#d7c8ff",
+      "description": "柔紫底配青檸重點、硬陰影內容卡與橫向科目清單；登入將品牌圖像置右。",
+      "classificationReason": "以立體學科物件和黑框卡片為主要視覺，獨立於場景、植物與平面卡通分類。",
+      "reference": false,
+      "images": [
+        {
+          "id": "s65-01",
+          "name": "電腦版_登入頁",
+          "page": "登入",
+          "device": "電腦",
+          "src": "assets/images/s65-01.webp",
+          "thumb": "assets/images/s65-01-thumb.webp",
+          "width": 1600,
+          "height": 1003
+        },
+        {
+          "id": "s65-02",
+          "name": "手機版_登入頁",
+          "page": "登入",
+          "device": "手機",
+          "src": "assets/images/s65-02.webp",
+          "thumb": "assets/images/s65-02-thumb.webp",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "id": "s65-03",
+          "name": "電腦版_教師建立與派發頁",
+          "page": "教師建立與派發",
+          "device": "電腦",
+          "src": "assets/images/s65-03.webp",
+          "thumb": "assets/images/s65-03-thumb.webp",
+          "width": 1600,
+          "height": 1007
+        },
+        {
+          "id": "s65-04",
+          "name": "手機版_教師建立與派發頁",
+          "page": "教師建立與派發",
+          "device": "手機",
+          "src": "assets/images/s65-04.webp",
+          "thumb": "assets/images/s65-04-thumb.webp",
+          "width": 430,
+          "height": 1085
+        },
+        {
+          "id": "s65-05",
+          "name": "電腦版_學生科目頁",
+          "page": "學生科目與練習",
+          "device": "電腦",
+          "src": "assets/images/s65-05.webp",
+          "thumb": "assets/images/s65-05-thumb.webp",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": "s65-06",
+          "name": "手機版_學生科目頁",
+          "page": "學生科目與練習",
+          "device": "手機",
+          "src": "assets/images/s65-06.webp",
+          "thumb": "assets/images/s65-06-thumb.webp",
+          "width": 430,
+          "height": 1740
+        }
+      ],
+      "cover": "s65-01",
+      "desktop": 3,
+      "mobile": 3,
+      "notes": [
+        "新增系列：用戶選定的黑框立體卡片方向。",
+        "三頁各有獨立電腦及手機設計，共六張。",
+        "靜態視覺提案，保留現有功能；未修改正式學習平台。"
+      ]
+    },
+    {
+      "id": 66,
+      "number": 61,
+      "name": "薄荷工坊",
+      "category": "立體卡片與黑框",
+      "color": "#bcebd9",
+      "description": "薄荷色搭配紫色圓形物件底盤；登入使用深色品牌區，教師頁以薄荷實色卡聚焦主要操作。",
+      "classificationReason": "以立體學科物件和黑框卡片為主要視覺，獨立於場景、植物與平面卡通分類。",
+      "reference": false,
+      "images": [
+        {
+          "id": "s66-01",
+          "name": "電腦版_登入頁",
+          "page": "登入",
+          "device": "電腦",
+          "src": "assets/images/s66-01.webp",
+          "thumb": "assets/images/s66-01-thumb.webp",
+          "width": 1600,
+          "height": 1003
+        },
+        {
+          "id": "s66-02",
+          "name": "手機版_登入頁",
+          "page": "登入",
+          "device": "手機",
+          "src": "assets/images/s66-02.webp",
+          "thumb": "assets/images/s66-02-thumb.webp",
+          "width": 430,
+          "height": 932
+        },
+        {
+          "id": "s66-03",
+          "name": "電腦版_教師建立與派發頁",
+          "page": "教師建立與派發",
+          "device": "電腦",
+          "src": "assets/images/s66-03.webp",
+          "thumb": "assets/images/s66-03-thumb.webp",
+          "width": 1600,
+          "height": 1000
+        },
+        {
+          "id": "s66-04",
+          "name": "手機版_教師建立與派發頁",
+          "page": "教師建立與派發",
+          "device": "手機",
+          "src": "assets/images/s66-04.webp",
+          "thumb": "assets/images/s66-04-thumb.webp",
+          "width": 430,
+          "height": 1085
+        },
+        {
+          "id": "s66-05",
+          "name": "電腦版_學生科目頁",
+          "page": "學生科目與練習",
+          "device": "電腦",
+          "src": "assets/images/s66-05.webp",
+          "thumb": "assets/images/s66-05-thumb.webp",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": "s66-06",
+          "name": "手機版_學生科目頁",
+          "page": "學生科目與練習",
+          "device": "手機",
+          "src": "assets/images/s66-06.webp",
+          "thumb": "assets/images/s66-06-thumb.webp",
+          "width": 430,
+          "height": 1740
+        }
+      ],
+      "cover": "s66-01",
+      "desktop": 3,
+      "mobile": 3,
+      "notes": [
+        "新增系列：用戶選定的黑框立體卡片方向。",
+        "三頁各有獨立電腦及手機設計，共六張。",
+        "靜態視覺提案，保留現有功能；未修改正式學習平台。"
+      ]
     }
   ],
-  "revision": "2026-10-28-large-text-61"
+  "revision": "2026-10-28-3d-cards-64"
 }
